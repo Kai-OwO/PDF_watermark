@@ -27,6 +27,7 @@ add_watermark(target_pdf_path='0206呢喃週報_L1賽道潛在投資機會.pdf',
 
 以此範例，你會得到一個名為"0206呢喃週報_L1賽道潛在投資機會_0x1FabAc.pdf"的檔案，打開看看。
 
+&nbsp;
 
 ## 工商時間
 
@@ -39,3 +40,8 @@ add_watermark(target_pdf_path='0206呢喃週報_L1賽道潛在投資機會.pdf',
 >呢喃貓官網 🐱 https://murmurcats.club/
 
 >呢喃貓Opensea 🎨 https://opensea.io/collection/murmurcats
+
+### 參考引用
+
+股哥大神<br>
+[Python3，2段代码，给pdf文件添加水印，原来watermark还可以这么玩](https://blog.csdn.net/wuyoudeyuer/article/details/122858139)。<br>
