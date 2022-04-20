@@ -44,4 +44,5 @@ add_watermark(target_pdf_path='0206呢喃週報_L1賽道潛在投資機會.pdf',
 ### 參考引用
 
 股哥大神<br>
+[漢字鑄造](ttps://sites.google.com/view/jtfoundry/)<br>
 [Python3，2段代码，给pdf文件添加水印，原来watermark还可以这么玩](https://blog.csdn.net/wuyoudeyuer/article/details/122858139)。<br>
