@@ -25,7 +25,7 @@ add_watermark(target_pdf_path='0206呢喃週報_L1賽道潛在投資機會.pdf',
 
 - 跑吧：`python3 watermark.py`
 
-以此範例，你會得到一個名為"0206呢喃週報_L1賽道潛在投資機會_0x1FabAc.pdf"的檔案，打開看看。
+以此範例來說，你會得到一個名為"0206呢喃週報_L1賽道潛在投資機會_0x1FabAc.pdf"的檔案，打開看看。
 
 &nbsp;
 
